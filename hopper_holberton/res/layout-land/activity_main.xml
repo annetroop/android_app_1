@@ -25,6 +25,7 @@
         android:adjustViewBounds="true"
         android:contentDescription="@string/name"
         android:cropToPadding="true"
+        android:paddingTop="20dp"
         android:scaleType="fitStart"
         android:src="@drawable/grace_hopper" />
 
@@ -33,6 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/imageView1"
+        android:layout_below="@id/textView1"
         android:paddingLeft="8dp"
         android:paddingTop="20dp"
         android:text="@string/hopper_text"
