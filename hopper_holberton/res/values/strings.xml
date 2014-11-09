@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hopper_holberton</string>
+    <string name="name">Betty Holberton</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="holberton_text">Bettty Holberton (1917 - 2001) was one of the 6 original "ENIAC girls", the women who programmed the ENAIC to compute ballistic trajectories for the Army.  The first computer programmers were women because it was assumed that it would be a "clerical" job and that the hardware side of the work was more "masculine". Betty Holbertson went on to become Chief of the Programming Research Branch at the Applied Mathematics Laboratory of David Taylor Basin.  She helped to develop the UNIVAC.  She also wrote the first statistical library, for the 1950 US Census. 
+
+Holberton invented the breakpoint - which at the time mean pulling a wire to break a connection so you could see what the values were when it got to that point.  She worked with Grace Hopper on early languages (COBOL and FORTRAN) and continued to be very involved in the standards definitions for FORTRAN when she worked at the National Bureau of Standards. 
+         </string>
+    <string name="action_settings">Settings</string>
+
+</resources>

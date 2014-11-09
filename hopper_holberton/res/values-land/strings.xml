@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hopper_holbertson</string>
+    <string name="name">Grace Hopper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hopper_text">Grace Hopper (1906 - 1992), wrote the first compiler for a machine-independent language ("A-0"), leading to the development of COBOL.  Hopper is said to have invented the term debugging, referring back to an incident with having to remove an actual moth stuck in the physical machine.  She got her Masters in mathematics at Yale in 1930.  She left teaching in 1943 to join the Navy Reserve, where she worked on the IBM "Automated Sequence Controlled Calculator", also known the Harvard Mark I.  The Mark I was used by the Manhattan Project among others.
+
+In 1949, she joined the Eckert–Mauchly Computer Corporation as a senior mathematician, and worked on the UNIVAC.  She became their director of automatic programming, leading the development of several compiled languages.  She became involved industry committee that defined the standards for COBOL, and later worked on standards for FORTRAN for the Navy.
+
+She retired from the Navy at 60 with the rank of commander.  She was later asked to return, and was promoted to rear admiral (lower half). </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
