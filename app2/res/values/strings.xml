@@ -2,9 +2,10 @@
 <resources>
 
     <string name="app_name">app2</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Don\'t panic!</string>
     <string name="action_settings">Settings</string>
     <string name="button">click me</string>
     <string name="screen2name">screen2</string>
-    <string name="hello_again">Hello again!</string>
+    <string name="hello_again">Mostly harmless!</string>
+    <string name="earth">earth</string>
 </resources>

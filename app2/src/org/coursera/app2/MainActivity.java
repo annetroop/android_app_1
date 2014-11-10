@@ -22,13 +22,10 @@ public class MainActivity extends ActionBarActivity {
 		return true;
 	}
 
-	public void sayHi(android.view.View view) {
-        System.out.println("Hi!");
-	}
-	
-		public void onClick(View view) {
-			Intent intent = new Intent(MainActivity.this, screen2.class);
-            startActivity(intent);
+
+    public void onClick(View view) {
+	    Intent intent = new Intent(MainActivity.this, screen2.class);
+        startActivity(intent);
 
 	}
 	@Override
